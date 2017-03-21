@@ -1,0 +1,7 @@
+#Sat Mar 18 21:33:58 IST 2017
+base.0=/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_124e258832f6e87273985a4dc5f09db8798bb57e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f34240fd18bff54f2f0d63e7d3e83355d2c8079b/classes.dex
+base.1=/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f34240fd18bff54f2f0d63e7d3e83355d2c8079b
+file.0=/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_124e258832f6e87273985a4dc5f09db8798bb57e/classes.dex

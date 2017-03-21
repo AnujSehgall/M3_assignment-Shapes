@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a4d0a99b15dcc1cb0be2672878e7f1e64474257">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_124e258832f6e87273985a4dc5f09db8798bb57e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f34240fd18bff54f2f0d63e7d3e83355d2c8079b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-17.0_7ed20aaef4a811de33a79bd93daf9a80b053e3c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_f5d4313a22a8e94563c9c70d52f48f8a4971ead8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m3-assignment-shapes-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_29c01cc71528b1ffea6c1e237232283ddfb56a75/classes.dex" />
+    </item>
+
+</items>
